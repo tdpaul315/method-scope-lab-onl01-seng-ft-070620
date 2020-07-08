@@ -4,6 +4,5 @@ def rescue_princess_peach
 end
 
 def rescue_princess_peach(status)
-status="rescued"
-puts status
+puts "{status}"
 end
